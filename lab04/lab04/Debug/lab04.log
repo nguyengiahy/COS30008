@@ -1,0 +1,4 @@
+﻿  PassiveResistor.cpp
+C:\Go\Code\Visual studio projects\Data structures and patterns\lab04\lab04\PassiveResistor.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Go\Code\Visual studio projects\Data structures and patterns\lab04\lab04\PassiveResistor.cpp(12,41): warning C4018: '<': signed/unsigned mismatch
+  lab04.vcxproj -> C:\Go\Code\Visual studio projects\Data structures and patterns\lab04\Debug\lab04.exe
