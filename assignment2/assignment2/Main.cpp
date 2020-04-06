@@ -1,5 +1,5 @@
-#include "SelectionSort.h"
-#include "InsertionSort.h"
+#include "SelectionSort.h";
+#include "InsertionSort.h";
 #include <iostream>
 
 using namespace std;

@@ -25,14 +25,7 @@ ArraySorter::~ArraySorter()
 //Showing the sorted array after each stage
 void ArraySorter::stepCompleted(ostream& aOStream)
 {
-    aOStream << "State: [";
-    for (int i = 0; i < fArraySize; i++)
-    {
-        aOStream << fArrayOfNumbers[i];
-        if (i < fArraySize - 1)
-            aOStream << ", ";
-    }
-    aOStream << "]" << endl;
+    aOStream << "State: " << *this <<endl;
 }
 
 //Swap the value between 2 elements

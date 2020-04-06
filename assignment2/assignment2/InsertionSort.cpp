@@ -1,9 +1,11 @@
 #include "InsertionSort.h"
 using namespace std;
 
+//Constructor
 InsertionSort::InsertionSort(int aArrayOfNumbers[], unsigned int aArraySize) : ArraySorter::ArraySorter(aArrayOfNumbers, aArraySize)
 {}
 
+//Overriding sort method to apply insetion sort algorithm
 void InsertionSort::sort(ostream& aOStream)
 {
 	int i = 1;
@@ -16,6 +18,7 @@ void InsertionSort::sort(ostream& aOStream)
 			j--;
 		}
 		i++;
-		stepCompleted(aOStream);
+		//stepCompleted(aOStream);
+		ArraySorter::sort(aOStream);
 	}
 }
