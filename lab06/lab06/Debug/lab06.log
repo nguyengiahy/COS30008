@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  ofstream12.cpp
+  Generating Code...
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\lab06\lab06\ofstream12.cpp(89): warning C4715: 'ofstream12::operator<<': not all control paths return a value
+  lab06.vcxproj -> C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\lab06\Debug\lab06.exe
