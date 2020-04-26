@@ -1,0 +1,3 @@
+﻿  ifstream12.cpp
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment4\assignment4\ifstream12.cpp(22,35): warning C4244: '=': conversion from 'std::streamsize' to 'size_t', possible loss of data
+  assignment4.vcxproj -> C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment4\Debug\assignment4.exe
