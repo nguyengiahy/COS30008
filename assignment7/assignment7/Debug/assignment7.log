@@ -1,0 +1,31 @@
+﻿  Main.cpp
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\assignment7\List.h(157,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\assignment7\List.h(156): message : while compiling class template member function 'const T &List<T>::operator [](size_t) const'
+          with
+          [
+              T=const NTree<std::string,3> *
+          ]
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\assignment7\Queue.h(51): message : see reference to function template instantiation 'const T &List<T>::operator [](size_t) const' being compiled
+          with
+          [
+              T=const NTree<std::string,3> *
+          ]
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\assignment7\Queue.h(13): message : see reference to class template instantiation 'List<T>' being compiled
+          with
+          [
+              T=const NTree<std::string,3> *
+          ]
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\assignment7\NTree.h(209): message : see reference to class template instantiation 'Queue<const NTree<std::string,3> *>' being compiled
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\assignment7\NTree.h(208): message : while compiling class template member function 'void NTree<std::string,3>::traverseBreadthFirst(const TreeVisitor<T> &) const'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\assignment7\Main.cpp(119): message : see reference to function template instantiation 'void NTree<std::string,3>::traverseBreadthFirst(const TreeVisitor<T> &) const' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\assignment7\Main.cpp(107): message : see reference to class template instantiation 'NTree<std::string,3>' being compiled
+  LINK : C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\Debug\assignment7.exe not found or not built by the last incremental link; performing full link
+  assignment7.vcxproj -> C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment7\Debug\assignment7.exe

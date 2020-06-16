@@ -1,0 +1,19 @@
+﻿  Main.cpp
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment6\assignment6\List.h(159,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment6\assignment6\List.h(158): message : while compiling class template member function 'const T &List<T>::operator [](size_t) const'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment6\assignment6\Stack.h(52): message : see reference to function template instantiation 'const T &List<T>::operator [](size_t) const' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment6\assignment6\Stack.h(13): message : see reference to class template instantiation 'List<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment6\assignment6\Main.cpp(64): message : see reference to class template instantiation 'Stack<std::string>' being compiled
+  assignment6.vcxproj -> C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\assignment6\Debug\assignment6.exe

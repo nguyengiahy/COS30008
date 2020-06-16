@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  SimpleString.cpp
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\lab09\lab09\SimpleString.cpp(69,11): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lab09.vcxproj -> C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\lab09\Debug\lab09.exe
