@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  TTree.cpp
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\Final exam\Final exam\TTree.h(112,1): error C2061: syntax error: identifier 'TreeVisitor'
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\Final exam\Final exam\TTree.h(128): message : see reference to class template instantiation 'TTree<T>' being compiled
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\Final exam\Final exam\TTree.h(117,13): error C3861: 'aVisitor': identifier not found
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\Final exam\Final exam\TTree.h(118,39): error C3861: 'aVisitor': identifier not found
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\Final exam\Final exam\TTree.h(119,41): error C3861: 'aVisitor': identifier not found
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\Final exam\Final exam\TTree.h(120,40): error C3861: 'aVisitor': identifier not found
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\Final exam\Final exam\TTree.h(121,13): error C3861: 'aVisitor': identifier not found
+C:\Users\NO GO BE\OneDrive\Desktop\Code\Visual Studio projects\Data Structures and Patterns\Final exam\Final exam\TTree.h(125,13): error C3861: 'aVisitor': identifier not found
+  Generating Code...
